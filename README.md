@@ -1,3 +1,13 @@
+# MAterial-UI Faded Text Effect
+
+I was looking for a method to show an ellipsis overflow in a div when the text spans multiple lines.
+See [this Stackoverflow question](https://stackoverflow.com/questions/15909489/text-overflow-ellipsis-on-two-lines)
+
+I built this as a live demo viewable here: [Codesandbox](https://codesandbox.io/s/github/codementation/Material-UI-Faded-Text-Demo/tree/main/)
+
+
+## React Details
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
