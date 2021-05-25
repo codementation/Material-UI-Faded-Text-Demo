@@ -1,4 +1,4 @@
-# MAterial-UI Faded Text Effect
+# Material-UI Faded Text Effect
 
 I was looking for a method to show an ellipsis overflow in a div when the text spans multiple lines.
 See [this Stackoverflow question](https://stackoverflow.com/questions/15909489/text-overflow-ellipsis-on-two-lines)
